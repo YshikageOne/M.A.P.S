@@ -8,3 +8,12 @@ M.A.P.S (Medical Appointment Planning System) is a mobile application designed t
 The process of designing and prototyping was done in Figma.
 
 In order to use Figma, you need to make an account, after that you can preview it here -> [Figma Prototype](https://www.figma.com/design/DFnyEJCQBGnrg6qIl9AxSC/M.A.P.S?node-id=0-1&t=92OKD7zo7Y6YnlCD-1)
+
+
+## The Rest
+
+Here are the contents of the portfolio.
+
+[Part 1](./Part 1) - App Icon, Team Logo, Proposal
+[Part 2](./Part 2) - System Prototype, Evaluation
+[Part 3](./Part 3) - Presentation
