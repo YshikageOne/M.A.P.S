@@ -14,6 +14,6 @@ In order to use Figma, you need to make an account, after that you can preview i
 
 Here are the contents of the portfolio.
 
-[Part 1](Part 1) - App Icon, Team Logo, Proposal
-[Part 2](Part 2) - System Prototype, Evaluation
-[Part 3](Part 3) - Presentation
+[Part 1](/Part 1) - App Icon, Team Logo, Proposal
+[Part 2](/Part 2) - System Prototype, Evaluation
+[Part 3](/Part 3) - Presentation
