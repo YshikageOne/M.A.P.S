@@ -1,4 +1,4 @@
-![app logo](./assets/
+![app logo](./assets/teamLogo.png)
 
 ## Welcome to M.A.P.S
 
