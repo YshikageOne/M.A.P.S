@@ -7,4 +7,4 @@ I'm Clyde Allen T. Yu, co-creator of M.A.P.S., one of The Big 3-1's members. Thi
 
 ## Wanna Know more?
 
-To know more Click [This](USER_MANUAL.md)
+To know more Click This [User Manual :)](USER_MANUAL.md)
