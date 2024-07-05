@@ -1,4 +1,4 @@
-![app logo](./assets/appLogo.png)
+![app logo](./assets/Big3-1Logo(Transparent).png)
 
 ## Welcome to M.A.P.S
 
